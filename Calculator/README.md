@@ -74,6 +74,11 @@ This project implements a simple calculator using MATLAB's GUI development envir
 - Familiarity with MATLAB is optional but helpful.
 
 ---
+## 🖼️ GUI Interface Preview
+
+Here’s a preview of the main **Calculator GUI**:
+
+![Screenshot 2024-12-06 200024](https://github.com/user-attachments/assets/f6e8e72b-d82a-43d7-97ea-3e06b18e1093)
 
 
 **Thank you for using the Calculator GUI!** 😊
