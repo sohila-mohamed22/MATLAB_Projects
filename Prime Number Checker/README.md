@@ -72,5 +72,11 @@ Prime numbers are the building blocks of number theory. This project offers an e
 
 ---
 
+## 🖼️ GUI Interface Preview
+
+Here’s a preview of the main **Prime Number Checker GUI**:
+
+![Screenshot 2024-12-06 200001](https://github.com/user-attachments/assets/1c33553f-7acb-4d15-a65f-669f40fee7f3)
+
 **Thank you for using the Prime Number Checker GUI!** 😊
 
